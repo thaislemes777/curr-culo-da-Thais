@@ -1,0 +1,13 @@
+body{
+    background-color:darkgrey;
+}
+hr{
+    height: 5px;   
+    background-color: black;
+   border: none;
+
+}
+p{
+  width: 800px;
+  text-align: justify;
+}
